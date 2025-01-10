@@ -1,4 +1,3 @@
-src-git kwrt_packages https://github.com/kiddin9/kwrt-packages.git
 src-git packages https://github.com/immortalwrt/packages.git
 src-git luci https://github.com/immortalwrt/luci.git
 src-git routing https://git.openwrt.org/feed/routing.git
